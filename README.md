@@ -34,9 +34,14 @@ For validation and testing, the network's functionality and performance are asse
 
 ##  RESULTS - CONNECTION TEST
 
-|             hhjkdassasdasd                   |hjhbjknad                                         |
-|----------------------------------------------|--------------------------------------------------|
-|  ![1st floor to 2nd floor](https://github.com/branrx/LAN-Design/assets/94361438/e07a0da5-8d85-4a5d-8435-09d224b3adef) |  ![ground floor to ground floor](https://github.com/branrx/LANDesign/assets/94361438/11b09f96-449b-4ba1-85ef-b473bd2ab8a3) |
+| Host on First floor, pinging host on Second Floor. |
+|  204.15.5.16 ping 204.15.5.137               |
+|----------------------------------------------|
+|  ![1st floor to 2nd floor](https://github.com/branrx/LAN-Design/assets/94361438/e07a0da5-8d85-4a5d-8435-09d224b3adef) |  
+
+|             hhjkdassasdasd                   |
+|----------------------------------------------|
+| ![ground floor to ground floor](https://github.com/branrx/LANDesign/assets/94361438/11b09f96-449b-4ba1-85ef-b473bd2ab8a3) |
  
 
 
