@@ -28,3 +28,7 @@ For validation and testing, the network's functionality and performance are asse
 
 ![addressing scheme 2](https://github.com/branrx/LAN-Design/assets/94361438/1954a0cd-46da-4647-be83-41a52627da50)
 
+##  RESULTS - CONNECTION TEST
+
+
+
