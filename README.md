@@ -36,7 +36,8 @@ For validation and testing, the network's functionality and performance are asse
 
 |             hhjkdassasdasd                   |hjhbjknad                                         |
 |----------------------------------------------|--------------------------------------------------|
-|   ![Uploading 1st floor to 2nd floor.png…]() |![Uploading ground floor to ground floor.png…]()  |
+|  ![1st floor to 2nd floor](https://github.com/branrx/LAN-Design/assets/94361438/e07a0da5-8d85-4a5d-8435-09d224b3adef) |  ![ground floor to ground floor](https://github.com/branrx/LANDesign/assets/94361438/11b09f96-449b-4ba1-85ef-b473bd2ab8a3) |
+ 
 
 
 
