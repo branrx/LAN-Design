@@ -41,7 +41,7 @@ For validation and testing, the network's functionality and performance are asse
 
 |  Host on Ground Floor, pinging host on Ground Floor. 204.15.5.12 ping 204.15.5.26                                |
 |----------------------------------------------|
-| ![ground floor to ground floor](https://github.com/branrx/LANDesign/assets/94361438/11b09f96-449b-4ba1-85ef-b473bd2ab8a3) |
+| ![ground floor to ground floor](https://github.com/branrx/LAN-Design/assets/94361438/33d45a5b-be83-41f6-9f13-604264641cdf) |
 
 |  Host on Second Floor (Network 2), pinging host on First Floor (Network 1). 204.15.5.181 ping 204.15.5.205                |
 |----------------------------------------------|
