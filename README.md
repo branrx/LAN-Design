@@ -28,7 +28,15 @@ For validation and testing, the network's functionality and performance are asse
 
 ![addressing scheme 2](https://github.com/branrx/LAN-Design/assets/94361438/1954a0cd-46da-4647-be83-41a52627da50)
 
+##  TOPOLOGY PREVIEW
+![topology preview](https://github.com/branrx/LAN-Design/assets/94361438/7bd537a3-b440-4d20-9fb6-2d7b825a9b0f)
+
+
 ##  RESULTS - CONNECTION TEST
+
+|             hhjkdassasdasd                   |hjhbjknad                                         |
+|----------------------------------------------|--------------------------------------------------|
+|   ![Uploading 1st floor to 2nd floor.png…]() |![Uploading ground floor to ground floor.png…]()  |
 
 
 
