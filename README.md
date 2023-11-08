@@ -1,10 +1,10 @@
-## LAN-Design
+# LAN-Design
 Local Network Area design for a single building facilitating offices and laboratories across 3 floors.
 
-#  PROBLEM DESCRIPTION
+##  PROBLEM DESCRIPTION
 The client seeks to deploy a local area network (LAN) within a multi-story school building, catering to a collective of 120 users distributed across three floors. The specific challenge is to ensure that each sub-network is configured to support no more than 36 users while adhering to the cost constraints inherent in the utilization of a Class C network scheme.
 
-#  NETWORK DESIGN OVERVIEW
+##  NETWORK DESIGN OVERVIEW
 In the network design, the primary constraint is the need to limit each sub-network to a maximum of 30 hosts while accommodating a total of 100 hosts across the network. To meet this requirement, it is necessary to employ more than four routers, as a network with only four routers would support a maximum of 120 hosts, falling short of the demand.
 
 As a solution, a hierarchical structure is proposed. On the ground floor, Router 1 is deployed to manage up to 29 hosts and connects to Router 2 on the first floor. Router 2, in turn, connects to Router 3, also on the first floor. This configuration with two routers on the first floor accommodates the 46 devices, while adhering to the 30-host limit per sub-network.
