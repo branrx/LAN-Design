@@ -3,7 +3,7 @@ Local Network Area design for a single building facilitating offices and laborat
 
 ##  PROBLEM DESCRIPTION
 The client seeks to deploy a local area network (LAN) within a multi-story school building, catering to a collective of 120 users distributed across three floors. The specific challenge is to ensure that each sub-network is configured to support no more than 36 users while adhering to the cost constraints inherent in the utilization of a Class C network scheme.
-s
+sd
 ### Constraints
 - no more than 36 users per sub-network
 - should accommodate 120 users
