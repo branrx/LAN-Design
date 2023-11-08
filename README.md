@@ -34,8 +34,8 @@ For validation and testing, the network's functionality and performance are asse
 
 ##  RESULTS - CONNECTION TEST
 
-| Host on First floor, pinging host on Second Floor. |
-|  204.15.5.16 ping 204.15.5.137               |
+| Host on First floor, pinging host on Second Floor. 
+  204.15.5.16 ping 204.15.5.137               |
 |----------------------------------------------|
 |  ![1st floor to 2nd floor](https://github.com/branrx/LAN-Design/assets/94361438/e07a0da5-8d85-4a5d-8435-09d224b3adef) |  
 
