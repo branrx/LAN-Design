@@ -20,4 +20,4 @@ On the second floor, Router 4 connects to Router 2, which acts as an intermediar
 
 Furthermore, this network design restricts each sub-network to a maximum of 29 hosts, complies with a Class C IP address scheme, and utilizes sub-netting techniques and a sub-net mask of 255.255.255.224 to allocate 32 host IP addresses per sub-network. To accommodate the 100 hosts, four sub-networks are created, each equipped with its own switch for host connections. Four routers are employed to establish connectivity between these sub-networks.
 
-For validation and testing, the network's functionality and performance are assessed using == CISCO Packet Tracer == as a simulation tool. This ensures a thorough evaluation of the network's operational viability.
+For validation and testing, the network's functionality and performance are assessed using ==CISCO Packet Tracer== as a simulation tool. This ensures a thorough evaluation of the network's operational viability.
